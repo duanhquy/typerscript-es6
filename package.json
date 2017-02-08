@@ -1,0 +1,15 @@
+{
+  "name": "typerdemo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "author": "FrankQ",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "lite-server": "^2.2.2"
+  },
+  "description": ""
+}
